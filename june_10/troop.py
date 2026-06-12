@@ -21,7 +21,7 @@ class Troop:
     
     def show_hp(self):
         print(f"HP:{self.hp}")
-    
+        
 
 
 barbarian = Troop(500, 100, 1, 1.2)
